@@ -15,4 +15,4 @@
 ## **Notice⚠️**
 - 其中虚线描边属性stroke-dasharray的更详细内容请参考[MDN](https://developer.mozilla.org/zh-CN/docs/Web/SVG/Attribute/stroke-dasharray)
 - 其中描边偏移属性stroke-dashoffset的更详细内容也请参考[MDN](https://developer.mozilla.org/zh-CN/docs/Web/SVG/Attribute/stroke-dashoffset)
-- 该内容只涉及SVG描边动画的基本原理，更多效果拓展请参考该[视频](https://www.bilibili.com/video/BV1cz42117pk)
+- 该内容只涉及SVG描边动画的基本原理，更多效果拓展请参考该[链接](https://github.com/JIEJOE-WEB-Tutorial/011-02-stroke-animation-creative)
